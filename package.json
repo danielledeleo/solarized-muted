@@ -1,0 +1,21 @@
+{
+    "name": "solarized-muted",
+    "displayName": "Solarized Muted",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Solarized Light Muted",
+                "uiTheme": "vs",
+                "path": "./themes/Solarized Light Muted-color-theme.json"
+            }
+        ]
+    }
+}
