@@ -2,6 +2,9 @@
     "name": "solarized-muted",
     "displayName": "Solarized Muted",
     "description": "",
+    "repository": {
+        "url": "https://github.com/jagger27/solarized-muted"
+    },
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.65.0"
